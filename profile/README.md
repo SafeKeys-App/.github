@@ -1,36 +1,36 @@
-# 🛡️ SafeKeys — Gestionnaire de mots de passe souverain, simple et open source
+# 🛡️ SafeKeys — Sovereign, Simple & Open Source Password Manager
 
-Bienvenue sur l’organisation **SafeKeys** — un écosystème d’outils libres et sécurisés pour gérer vos mots de passe et données sensibles **sans dépendre du cloud**.
-
----
-
-## 🔐 Notre mission
-
-Chez SafeKeys, nous croyons en une gestion **simple**, **pédagogique** et **souveraine** de vos identifiants. Notre objectif : offrir une alternative moderne et transparente aux gestionnaires de mots de passe traditionnels.
+Welcome to the **SafeKeys** organization — an ecosystem of free and secure tools to manage your passwords and sensitive data **without relying on the cloud**.
 
 ---
 
-## 🌍 Pourquoi SafeKeys ?
+## 🔐 Our Mission
 
-🔸 **Open source** : tout notre code est public, auditable et contributif  
-🔸 **Zéro cloud imposé** : vous restez maître de vos données  
-🔸 **Chiffrement local** : sécurité de niveau militaire (AES-256-GCM)  
-🔸 **Multi-supports** : mobile, navigateur, desktop  
-🔸 **UX accessible à tous** : que vous soyez tech ou non-tech  
-🔸 **Aucune collecte de données** : jamais, nulle part
+At SafeKeys, we believe in **simple**, **educational**, and **sovereign** credential management. Our goal: to offer a modern and transparent alternative to traditional password managers.
 
 ---
 
-## 📦 Composants de l’écosystème
+## 🌍 Why SafeKeys?
 
-| Projet | Description |
-|--------|-------------|
-| [`safekeys-core`](https://github.com/SafeKeys-App/SafeKeys-Core) | Librairie TypeScript de chiffrement/déchiffrement utilisée sur toutes les plateformes |
-| [`safekeys-mobile`](https://github.com/SafeKeys-App/SafeKeys-Mobile) | Application mobile (React Native + Expo) pour gérer vos mots de passe en local |
-| [`safekeys-web`](https://github.com/SafeKeys-App/SafeKeys-Web) | Application web (React + Next) pour gérer vos mots de passe  |
-| [`safekeys-extension`](https://github.com/SafeKeys-App/safekeys-Extension) | Extension Chrome (Vite + React) pour accéder à vos données chiffrées depuis le navigateur |
-| [`safekeys-desktop`](https://github.com/SafeKeys-App/safekeys-Desktop) | Application Electron (à venir) pour lire/écrire dans votre fichier `.vault` sur ordinateur |
-| [`safekeys-docs`](https://github.com/SafeKeys-App/safekeys-Docs) | Documentation technique, guide d’architecture, sécurité et contribution |
+🔸 **Open source**: all our code is public, auditable, and contributory  
+🔸 **Zero forced cloud**: you remain in control of your data  
+🔸 **Local encryption**: military-grade security (AES-256-GCM)  
+🔸 **Multi-platform**: mobile, browser, desktop  
+🔸 **UX accessible to everyone**: whether you're tech-savvy or not  
+🔸 **No data collection**: never, nowhere
+
+---
+
+## 📦 Ecosystem Components
+
+| Project | Description |
+|---------|-------------|
+| [`safekeys-core`](https://github.com/SafeKeys-App/SafeKeys-Core) | TypeScript encryption/decryption library used across all platforms |
+| [`safekeys-mobile`](https://github.com/SafeKeys-App/SafeKeys-Mobile) | Mobile app (React Native + Expo) to manage your passwords locally |
+| [`safekeys-web`](https://github.com/SafeKeys-App/SafeKeys-Web) | Web application (React + Next) to manage your passwords |
+| [`safekeys-extension`](https://github.com/SafeKeys-App/safekeys-Extension) | Chrome extension (Vite + React) to access your encrypted data from the browser |
+| [`safekeys-desktop`](https://github.com/SafeKeys-App/safekeys-Desktop) | Electron application (coming soon) to read/write your `.vault` file on desktop |
+| [`safekeys-docs`](https://github.com/SafeKeys-App/safekeys-Docs) | Technical documentation, architecture guide, security and contribution |
 
 ---
 
@@ -43,28 +43,27 @@ Chez SafeKeys, nous croyons en une gestion **simple**, **pédagogique** et **sou
 
 ---
 
-## ✨ Rejoindre l’aventure
+## ✨ Join the Adventure
 
-SafeKeys est un projet **ouvert à tous** :
+SafeKeys is a project **open to everyone**:
 
-- 🚀 Vous voulez contribuer ? [Lisez nos guidelines de contribution](https://github.com/safekeys-org/safekeys-docs)
-- 🐛 Vous avez trouvé un bug ? [Ouvrez une issue](https://github.com/safekeys-org/safekeys-core/issues)
-- 💬 Vous avez une idée ? Discutons-en dans les discussions du repo
+- 🚀 Want to contribute? [Read our contribution guidelines](https://github.com/safekeys-org/safekeys-docs)
+- 🐛 Found a bug? [Open an issue](https://github.com/safekeys-org/safekeys-core/issues)
+- 🧠 Have an idea? Let's discuss it in the repo discussions
 
 ---
 
-## 🧠 Vision long terme
+## 🧠 Long-term Vision
 
-Nous voulons créer **le gestionnaire de mots de passe le plus simple et souverain du marché**, respectant vos libertés numériques tout en restant accessible à tous, y compris aux personnes non techniques.
+We want to create **the simplest and most sovereign password manager on the market**, respecting your digital freedoms while remaining accessible to everyone, including non-technical people.
 
 ---
 
 ## 📫 Contact
 
-- 🌐 [Site officiel (à venir)](https://safekeys.org)
-- 🐦 Twitter : [@SafeKeysApp](https://twitter.com/SafeKeysApp) (à venir)
+- 🌐 [Official website (coming soon)](https://safekeys.org)
+- 🐦 Twitter: [@SafeKeysApp](https://twitter.com/SafeKeysApp) (coming soon)
 
 ---
 
-> ✊ Reprenez le contrôle de vos données. Utilisez SafeKeys.
-
+> ✊ Take back control of your data. Use SafeKeys.
