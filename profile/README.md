@@ -25,8 +25,8 @@ Chez SafeKeys, nous croyons en une gestion **simple**, **pédagogique** et **sou
 
 | Projet | Description |
 |--------|-------------|
-| [`safekeys-core`](https://github.com/safekeys-org/safekeys-core) | Librairie TypeScript de chiffrement/déchiffrement utilisée sur toutes les plateformes |
-| [`safekeys-mobile`](https://github.com/safekeys-org/safekeys-mobile) | Application mobile (React Native + Expo) pour gérer vos mots de passe en local |
+| [`safekeys-core`](https://github.com/SafeKeys-App/SafeKeys-Core) | Librairie TypeScript de chiffrement/déchiffrement utilisée sur toutes les plateformes |
+| [`safekeys-mobile`]([https://github.com/safekeys-org/safekeys-mobile](https://github.com/SafeKeys-App/SafeKeys-Mobile) | Application mobile (React Native + Expo) pour gérer vos mots de passe en local |
 | [`safekeys-extension`](https://github.com/safekeys-org/safekeys-extension) | Extension Chrome (Vite + React) pour accéder à vos données chiffrées depuis le navigateur |
 | [`safekeys-desktop`](https://github.com/safekeys-org/safekeys-desktop) | Application Electron (à venir) pour lire/écrire dans votre fichier `.vault` sur ordinateur |
 | [`safekeys-docs`](https://github.com/safekeys-org/safekeys-docs) | Documentation technique, guide d’architecture, sécurité et contribution |
