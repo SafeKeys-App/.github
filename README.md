@@ -58,11 +58,10 @@ Nous voulons créer **le gestionnaire de mots de passe le plus simple et souvera
 
 ---
 
-## 📫 Contact & communauté
+## 📫 Contact
 
 - 🌐 [Site officiel (à venir)](https://safekeys.org)
-- 🐦 Twitter : [@SafeKeysApp](https://twitter.com/SafeKeysApp)
-- 💬 Discussions GitHub : [Forum communautaire](https://github.com/safekeys-org/safekeys-core/discussions)
+- 🐦 Twitter : [@SafeKeysApp](https://twitter.com/SafeKeysApp) (à venir)
 
 ---
 
